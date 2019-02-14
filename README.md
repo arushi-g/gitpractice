@@ -1,4 +1,4 @@
-##The Coming Software Apocalypse
+## The Coming Software Apocalypse
 
 This great [article](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) in the Atlantic was an eye-opener when I first read it a year ago and I've returned to it multiple times. 
 
