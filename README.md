@@ -7,3 +7,8 @@ The article opens with a story of how the 911 line in Washington State was down 
 This story highlights how wrapped up software is in every part of our lives, including our most important systems - and therefore, how important it is for programmers to get it right. A silly small decision of what number to set a counter at put the lives of Washington's residents at stake, and the programmers hadn't even anticipated the problem occuring. Software systems aren't tangible the way our old systems used to be, which the author posits is the major problem. Software failures are not failures of the program (the computer did exactly what it was told), but rather of the programmers - who can't be expected to perfectly imagine every scenario.
 
 The author goes on to describe efforts to make programming more like creating physical systems, in order to avoid issues like this. I haven't seen anything like this in my classes or my internships, though it seems vastly important, especially for critical systems. I hope to see more work on improving the process of software creation, as it becomes increasingly important in today's world. 
+
+
+## Qinyuan Zhang's comment
+
+Interesting article, clearly makes a point in that software engineering is important in almost every industry in the comtemporary society. 
