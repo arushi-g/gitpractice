@@ -12,3 +12,7 @@ The author goes on to describe efforts to make programming more like creating ph
 ## Qinyuan Zhang's comment
 
 Interesting article, clearly makes a point in that software engineering is important in almost every industry in the comtemporary society. 
+
+## Roy Lee's comment
+
+A great article highlighting the importance of software in today's society. Therefore, we, as programmers, must understand how critical it is to be precise in our development and maintenance of code as even the smallest errors may cause huge disturbances in the functionality of our everyday lives. 
